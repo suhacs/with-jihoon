@@ -1,6 +1,13 @@
 Hi This is the second file
 Is it working?
 Yes, it is working
+<<<<<<< HEAD
 fourth trt from second branch
 Thirs message
 Fourth
+=======
+Thirs message
+Fourth
+try from second branch
+
+>>>>>>> 030318bf0e499503f55e60711715f06cbc2e7f35
