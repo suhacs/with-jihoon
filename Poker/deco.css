@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	font-size: 0.8em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+input {
+	width: 2rem;
+}
+
+/* th {
+	font-size: 15px;
+	background-color: black;
+	color: white;
+}
+
+td {
+	padding: 2px;
+	width: 2.0%;
+}
+
+input {
+	width: 20px;
+}
+
+
+td:first-of-type {
+	width:4%;
+}
+
+input:first-of-type {
+	width:40px;
+}
+
+#FirstPlus:hover, #SecondPlus:hover {
+	background-color: rgb(244, 244, 244);
+	cursor: pointer;
+} */
